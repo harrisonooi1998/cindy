@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nyekiss/static/css/main.67f7de58.css",
-    "main.js": "/nyekiss/static/js/main.d08a6266.js",
-    "static/js/488.59c853a3.chunk.js": "/nyekiss/static/js/488.59c853a3.chunk.js",
-    "static/media/pochacco-sanrio.gif": "/nyekiss/static/media/pochacco-sanrio.f189a4cd005cb949309d.gif",
-    "static/media/yellow-pochacco.gif": "/nyekiss/static/media/yellow-pochacco.c161ffde947e5d880a25.gif",
-    "index.html": "/nyekiss/index.html",
-    "main.67f7de58.css.map": "/nyekiss/static/css/main.67f7de58.css.map",
-    "main.d08a6266.js.map": "/nyekiss/static/js/main.d08a6266.js.map",
-    "488.59c853a3.chunk.js.map": "/nyekiss/static/js/488.59c853a3.chunk.js.map"
+    "main.css": "/cindy/static/css/main.67f7de58.css",
+    "main.js": "/cindy/static/js/main.a138191d.js",
+    "static/js/488.59c853a3.chunk.js": "/cindy/static/js/488.59c853a3.chunk.js",
+    "static/media/pochacco-sanrio.gif": "/cindy/static/media/pochacco-sanrio.f189a4cd005cb949309d.gif",
+    "static/media/yellow-pochacco.gif": "/cindy/static/media/yellow-pochacco.c161ffde947e5d880a25.gif",
+    "index.html": "/cindy/index.html",
+    "main.67f7de58.css.map": "/cindy/static/css/main.67f7de58.css.map",
+    "main.a138191d.js.map": "/cindy/static/js/main.a138191d.js.map",
+    "488.59c853a3.chunk.js.map": "/cindy/static/js/488.59c853a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67f7de58.css",
-    "static/js/main.d08a6266.js"
+    "static/js/main.a138191d.js"
   ]
 }

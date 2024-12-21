@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hooi3/NYEKiss/static/css/main.67f7de58.css",
-    "main.js": "/hooi3/NYEKiss/static/js/main.36936358.js",
-    "static/js/488.3852b01e.chunk.js": "/hooi3/NYEKiss/static/js/488.3852b01e.chunk.js",
-    "static/media/pochacco-sanrio.gif": "/hooi3/NYEKiss/static/media/pochacco-sanrio.f189a4cd005cb949309d.gif",
-    "static/media/yellow-pochacco.gif": "/hooi3/NYEKiss/static/media/yellow-pochacco.c161ffde947e5d880a25.gif",
-    "index.html": "/hooi3/NYEKiss/index.html",
-    "main.67f7de58.css.map": "/hooi3/NYEKiss/static/css/main.67f7de58.css.map",
-    "main.36936358.js.map": "/hooi3/NYEKiss/static/js/main.36936358.js.map",
-    "488.3852b01e.chunk.js.map": "/hooi3/NYEKiss/static/js/488.3852b01e.chunk.js.map"
+    "main.css": "/nyekiss/static/css/main.67f7de58.css",
+    "main.js": "/nyekiss/static/js/main.d08a6266.js",
+    "static/js/488.59c853a3.chunk.js": "/nyekiss/static/js/488.59c853a3.chunk.js",
+    "static/media/pochacco-sanrio.gif": "/nyekiss/static/media/pochacco-sanrio.f189a4cd005cb949309d.gif",
+    "static/media/yellow-pochacco.gif": "/nyekiss/static/media/yellow-pochacco.c161ffde947e5d880a25.gif",
+    "index.html": "/nyekiss/index.html",
+    "main.67f7de58.css.map": "/nyekiss/static/css/main.67f7de58.css.map",
+    "main.d08a6266.js.map": "/nyekiss/static/js/main.d08a6266.js.map",
+    "488.59c853a3.chunk.js.map": "/nyekiss/static/js/488.59c853a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67f7de58.css",
-    "static/js/main.36936358.js"
+    "static/js/main.d08a6266.js"
   ]
 }
